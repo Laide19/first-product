@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    color: aqua;
+    align-self: center;
+}
+nav .Navi2 {display: flex;
+    flex-flow: row nowrap;
+    
+
+}
+    
+
+
+#mySt{
+    justify-self: flex-start;
+}
+.Foot{
+    display: flex;
+    justify-content: space-around;
+    
+}
