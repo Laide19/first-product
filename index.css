@@ -1,15 +1,17 @@
-h1 {
-color: gray;
-}  
-h2 {
-    color: yellow;
-    font-size: larger;
+
+
+h2{
+color: brown;
 }
-p {color:green;}
+.grid-work{
+    height: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid
 
-#firstId{color:yellow;
+
 
 }
-.firstClass{color: orange;
-
+#email-one{
+   
 }

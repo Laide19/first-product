@@ -1,0 +1,17 @@
+body{
+background-image: url("download.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+h1{
+    border: 500px; color: brown;
+    color: blue;
+    text-align: center;
+
+
+}
+a{
+    text-align: left;
+}
